@@ -24,7 +24,8 @@ function Distance({ userLocation, setUserLocation }) {
   // https://cors-anywhere.herokuapp.com/corsdemo
 
   //CORS proxy
-  const CORS = "https://cors-anywhere.herokuapp.com/";
+  // const CORS = "https://cors-anywhere.herokuapp.com/";
+  const CORS = "";
 
   //A&E waiting time
   const API1 = `${CORS}https://www.ha.org.hk/opendata/aed/aedwtdata-tc.json`;

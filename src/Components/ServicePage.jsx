@@ -25,7 +25,8 @@ function ServicePage({ userLocation }) {
   // https://cors-anywhere.herokuapp.com/corsdemo
 
   //CORS proxy
-  const CORS = "https://cors-anywhere.herokuapp.com/";
+  // const CORS = "https://cors-anywhere.herokuapp.com/";
+  const CORS = "";
 
   const BookingWaitTimeAPI = `${CORS}https://www.ha.org.hk/opendata/sop/sop-waiting-time-tc.json`;
 

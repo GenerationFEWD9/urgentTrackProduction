@@ -28,7 +28,8 @@ function GeneralPage({
   // https://cors-anywhere.herokuapp.com/corsdemo
 
   // CORS proxy
-  const CORS = "https://cors-anywhere.herokuapp.com/";
+  // const CORS = "https://cors-anywhere.herokuapp.com/";
+  const CORS = "";
 
   const generalAPI = `${CORS}https://www.ha.org.hk/opendata/facility-gop.json`;
 
