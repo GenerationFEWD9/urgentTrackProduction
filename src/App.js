@@ -39,7 +39,6 @@ function App() {
           }
         />
         <Route path="/about-us" element={<AboutUsPage />} />
-        <Route path="*" element={<PageNotFound />} />
         <Route
           path="/UrgentTrackProject"
           element={
@@ -60,6 +59,7 @@ function App() {
         />
         <Route path="/ambulance" element={<Ambulance />} />
         <Route path="/opinion" element={<Opinion />} />
+        <Route path="*" element={<PageNotFound />} />
       </Routes>
     </Router>
   );
