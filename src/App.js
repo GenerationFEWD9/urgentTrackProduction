@@ -20,7 +20,7 @@ function App() {
           {/* Links to navigate between pages */}
 
           <Link to="/about-us"> 主要頁</Link>
-          <Link to="/UrgentTrackProject"> 急症室</Link>
+          <Link to="/urgentTrackProduction"> 急症室</Link>
           <Link to="/service">專科服務</Link>
           <Link to="/general">普通科</Link>
           <Link to="/ambulance">緊急熱線</Link>

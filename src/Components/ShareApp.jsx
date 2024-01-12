@@ -17,7 +17,7 @@ import {
 } from "react-share";
 
 function ShareApp() {
-  const shareUrl = "https://generationfewd9.github.io/urgentTrackProject/";
+  const shareUrl = "https://generationfewd9.github.io/urgentTrackProduction/";
   return (
     <div>
       <br />

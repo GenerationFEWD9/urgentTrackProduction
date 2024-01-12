@@ -28,7 +28,7 @@ function AboutUsPage() {
             </p>
             <section className={styles["chooseServiceButtonWrapper"]}>
               <button id={styles["nearbyHospitalButton"]}>
-                <Link to="/UrgentTrackProject">附近急症室</Link>
+                <Link to="/urgentTrackProduction">附近急症室</Link>
               </button>
               <button id={styles["chooseServiceButton"]}>
                 <Link to="/service">專科服務</Link>
