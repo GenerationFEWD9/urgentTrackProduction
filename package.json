@@ -1,7 +1,7 @@
 {
   "name": "urgenttrack-app",
   "version": "0.1.0",
-  "homepage": "https://GenerationFEWD9.github.io/urgentTrackProject",
+  "homepage": "https://GenerationFEWD9.github.io/urgentTrackProduction",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
