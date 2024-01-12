@@ -40,7 +40,7 @@ function App() {
         />
         <Route path="/about-us" element={<AboutUsPage />} />
         <Route
-          path="/UrgentTrackProject"
+          path="/urgentTrackProduction"
           element={
             <Distance
               userLocation={userLocation}
